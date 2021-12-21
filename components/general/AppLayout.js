@@ -25,7 +25,7 @@ const AppLayout = ({ children }) => {
 				<meta property="og:url" content="https://www.casacanto.com.ar/" />
 				<meta
 					property="og:description"
-					content="Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música."
+					content="Casa Canto propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, despejar la mente y sentir la música."
 				/>
 				<meta
 					property="og:image"
@@ -39,7 +39,7 @@ const AppLayout = ({ children }) => {
 				<meta name="twitter:site" content="@casacanto" />
 				<meta
 					name="twitter:description"
-					content="Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música."
+					content="Casa Canto propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, despejar la mente y sentir la música."
 				/>
 				<meta
 					name="twitter:image"
@@ -47,7 +47,7 @@ const AppLayout = ({ children }) => {
 				/>
 				<meta
 					name="description"
-					content="Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música."
+					content="Casa Canto propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, despejar la mente y sentir la música."
 				/>
 				<link
 					rel="apple-touch-icon"
@@ -135,7 +135,7 @@ const AppLayout = ({ children }) => {
 						"name" : "Casa Canto",
 						"articleSection" : [ "[Taller de Canto] Taller de Canto", "[Taller de Guitarra y Bajo] Taller de Guitarra y Bajo", "[Taller de Charango y Ukelele] Taller de Charango y Ukelele", "[Taller de Piano] Taller de Piano", "[Taller de Batería y Precusión] Taller de Batería y Precusión", "[Iniciación Musical para niños] Iniciación Musical para niños"],
 						"image": "https://casacanto.com.ar/assets/images/logo.svg",
-						"description": "Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música.",
+						"description": "Casa Canto propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, despejar la mente y sentir la música.",
 						"url": "https://casacanto.com.ar/",
 						"brand": {
 							"@type": "Brand",
