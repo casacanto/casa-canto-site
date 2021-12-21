@@ -32,10 +32,13 @@ const ContactForm = () => {
 			<p><b>E-mail:</b> ${usefulFormData.email}</p>
 			<p><b>Mensaje:</b> ${usefulFormData.message}</p>`;
 
-			const response = await axios.post("https://casacanto.com.ar/api/mail", {
-				subject: `Mensaje de ${usefulFormData.name} - Casa Canto`,
-				html: htmlTemplate,
-			});
+			const response = await axios.post(
+				"https://www.casacanto.com.ar/api/mail",
+				{
+					subject: `Mensaje de ${usefulFormData.name} - Casa Canto`,
+					html: htmlTemplate,
+				}
+			);
 
 			if (response.status === 200) {
 				event.target.reset();
