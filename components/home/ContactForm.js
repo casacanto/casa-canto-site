@@ -32,7 +32,7 @@ const ContactForm = () => {
 			<p><b>E-mail:</b> ${usefulFormData.email}</p>
 			<p><b>Mensaje:</b> ${usefulFormData.message}</p>`;
 
-			const response = await axios.post("http://localhost:3000/api/mail", {
+			const response = await axios.post("https://casacanto.com.ar/api/mail", {
 				subject: `Mensaje de ${usefulFormData.name} - Casa Canto`,
 				html: htmlTemplate,
 			});
