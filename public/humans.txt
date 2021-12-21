@@ -1,7 +1,7 @@
 /* SITE INFORMATION */
 
 	Site name:  	Casa Canto
-	Site URL:   	https://casa-canto.vercel.app/
+	Site URL:   	https://casacanto.com.ar/
 	Web develop:	Agustín Andreacchi
 	Contact:    	https://dhaweb.com/contact/
 	Location:   	Argentina

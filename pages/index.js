@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import Banner from "../components/general/Banner";
 import Teachers from "../components/home/Teachers";
 import Why from "../components/home/Why";
@@ -9,6 +11,9 @@ import { CarouselContextProvider } from "../contexts/CarouselContext";
 export default function Home() {
 	return (
 		<div>
+			<Head>
+				<title>Casa Canto - Talleres</title>
+			</Head>
 			<Banner
 				title="Hacé música y sentite como en casa"
 				message="Hola! Quisiera más información de los talleres por favor!"
