@@ -13,12 +13,12 @@ const AppLayout = ({ children }) => {
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<meta name="theme-color" content="#FFFFFF" />
 				<meta name="title" content="Casa Canto" />
-				<link rel="canonical" href="https://casacanto.com.ar/" />
+				<link rel="canonical" href="https://www.casacanto.com.ar/" />
 
 				{/* Open Graphs */}
 				<meta property="og:title" content="Casa Canto" />
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://casacanto.com.ar/" />
+				<meta property="og:url" content="https://www.casacanto.com.ar/" />
 				<meta
 					property="og:description"
 					content="Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música."
