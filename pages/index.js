@@ -12,7 +12,7 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Casa Canto - Talleres</title>
+				<title>Casa Canto - Talleres musicales</title>
 			</Head>
 			<Banner
 				title="Hacé música y sentite como en casa"

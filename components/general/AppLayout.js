@@ -13,6 +13,10 @@ const AppLayout = ({ children }) => {
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<meta name="theme-color" content="#FFFFFF" />
 				<meta name="title" content="Casa Canto" />
+				<meta
+					name="keywords"
+					content="casa, canto, escuela, cordoba, taller, talleres, musical, musicales, guitarra, piano, ukelele, niños, iniciacion, bajo, charango, bateria, percusion, profesor, profesora, profesores, maestro, maestros, maestra, maestras"
+				/>
 				<link rel="canonical" href="https://www.casacanto.com.ar/" />
 
 				{/* Open Graphs */}
@@ -128,15 +132,15 @@ const AppLayout = ({ children }) => {
 					{`{
 						"@context": "http://schema.org",
 						"@type" : "Article",
-						"name" : "Actitud Ases",
-						"articleSection" : [ "[Desafío de 30 días] Desafío de 30 días", "[Date Coach] Date Coach", "[Desafío de 90 días] Desafío de 90 días" ],
+						"name" : "Casa Canto",
+						"articleSection" : [ "[Taller de Canto] Taller de Canto", "[Taller de Guitarra y Bajo] Taller de Guitarra y Bajo", "[Taller de Charango y Ukelele] Taller de Charango y Ukelele", "[Taller de Piano] Taller de Piano", "[Taller de Batería y Precusión] Taller de Batería y Precusión", "[Iniciación Musical para niños] Iniciación Musical para niños"],
 						"image": "https://casacanto.com.ar/assets/images/logo.svg",
-						"description": "Somos Ases una escuela de comunicación Interpersonal y habilidades sociales. Llevamos haciendo Consultoría y Mentoring en Transformación Personal por más de 10 años, si llegaste hasta este punto es porque estás buscando crecer más y nosotros te vamos ayudar.",
+						"description": "Casa Canto te propone una experiencia de aprendizaje al mismo tiempo que te permite pasar un buen momento, dejar de lado el estrés, despejar la mente y sentir la música.",
 						"url": "https://casacanto.com.ar/",
 						"brand": {
 							"@type": "Brand",
-							"name": "Actitud Ases",
-							"logo": "https://casacanto.com.ar/assets/images/ases-full-logo.webp"
+							"name": "Casa Canto",
+							"logo": "https://casacanto.com.ar/assets/images/logo.png"
 						},
 						"sameAs" : [
 							"https://twitter.com/casacanto",
