@@ -14,10 +14,6 @@ const AppLayout = ({ children }) => {
 				<meta name="theme-color" content="#FFFFFF" />
 				<meta name="title" content="Casa Canto" />
 				<meta
-					name="keywords"
-					content="casa, canto, escuela, cordoba, taller, talleres, musical, musicales, guitarra, piano, ukelele, niños, iniciacion, bajo, charango, bateria, percusion, profesor, profesora, profesores, maestro, maestros, maestra, maestras"
-				/>
-				<meta
 					name="google-site-verification"
 					content="GPfDPLIFX-XU-rOYrgRgIs5i9r7S7ffj_GLBTAzjVco"
 				/>
