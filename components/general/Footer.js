@@ -67,7 +67,7 @@ const Footer = () => {
 
 				.contactText {
 					font-weight: 300;
-					color: var(--white-background-text-body);
+					color: white;
 				}
 
 				.socialContainer {
