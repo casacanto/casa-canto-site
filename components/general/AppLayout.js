@@ -17,7 +17,10 @@ const AppLayout = ({ children }) => {
 					name="keywords"
 					content="casa, canto, escuela, cordoba, taller, talleres, musical, musicales, guitarra, piano, ukelele, niños, iniciacion, bajo, charango, bateria, percusion, profesor, profesora, profesores, maestro, maestros, maestra, maestras"
 				/>
-				<link rel="canonical" href="https://www.casacanto.com.ar/" />
+				<meta
+					name="google-site-verification"
+					content="GPfDPLIFX-XU-rOYrgRgIs5i9r7S7ffj_GLBTAzjVco"
+				/>
 
 				{/* Open Graphs */}
 				<meta property="og:title" content="Casa Canto" />
